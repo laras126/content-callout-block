@@ -1,0 +1,15 @@
+
+.wp-block-ccfk-content-callout {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-column-gap: 30px;
+	place-content: center;
+}
+
+.callout-btn {
+	border: 3px solid indianred;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 20px;
+	padding: 10px;
+}

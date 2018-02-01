@@ -1,0 +1,14 @@
+
+.wp-block-ccfk-content-callout {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-column-gap: 30px;
+}
+
+.callout-image {
+	background: #EEE;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
